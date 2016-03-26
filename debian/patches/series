@@ -1,3 +1,4 @@
+fix_php7_warning.diff
 dbconfig-common_support.patch
 correct_install_path.patch
 use_pspell.patch

@@ -1,3 +1,9 @@
+roundcube (1.1.4+dfsg.1-1.3) xenial; urgency=medium
+
+  * fixed php7 warning
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 26 Mar 2016 08:24:19 +0100
+
 roundcube (1.1.4+dfsg.1-1.2) wily; urgency=medium
 
   * rebuild
