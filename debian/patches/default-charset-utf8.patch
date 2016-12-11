@@ -2,9 +2,9 @@ Switch to UTF-8 as default charset
 
 Index: roundcube/config/defaults.inc.php
 ===================================================================
---- roundcube.orig/config/defaults.inc.php	2015-03-23 22:24:34.201924257 +0100
-+++ roundcube/config/defaults.inc.php	2015-03-23 22:24:34.195257527 +0100
-@@ -946,7 +946,7 @@
+--- roundcube.orig/config/defaults.inc.php	2016-05-24 21:19:04.448575101 +0200
++++ roundcube/config/defaults.inc.php	2016-05-24 21:19:04.444575016 +0200
+@@ -1005,7 +1005,7 @@
  // ----------------------------------
  
  // Use this charset as fallback for message decoding

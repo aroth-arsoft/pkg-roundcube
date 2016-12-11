@@ -1,0 +1,9 @@
+/roundcube/
+/roundcube-core/
+/roundcube-mysql/
+/roundcube-pgsql/
+/roundcube-plugins/
+/roundcube-sqlite3/
+*.debhelper
+*.substvars
+*.log
