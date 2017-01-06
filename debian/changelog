@@ -1,3 +1,16 @@
+roundcube (1.2.3+dfsg.1-1.1~aroth1) yakkety; urgency=medium
+
+  * backport latest version
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Fri, 06 Jan 2017 11:58:48 +0100
+
+roundcube (1.2.3+dfsg.1-1) unstable; urgency=high
+
+  [ Guilhem Moulin ]
+  * New upstream release (closes: #847287).
+
+ -- Sandro Knauß <hefee@debian.org>  Fri, 16 Dec 2016 12:17:54 +0100
+
 roundcube (1.2.2+dfsg.1-1.1aroth) yakkety; urgency=medium
 
   * backport latest version
